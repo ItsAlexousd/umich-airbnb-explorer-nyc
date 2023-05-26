@@ -5,3 +5,12 @@ h1 {
 #price-map {
     margin: 20px 0;
 }
+
+#price-output {
+    color: red;
+    font-weight: bold;
+}
+
+#submit-button {
+    margin-bottom: 20px;
+}
