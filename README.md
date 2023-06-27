@@ -28,13 +28,7 @@ The dataset used for this project is available in the file `data/AB_NYC_2019.csv
 
 ## Usage
 
-The main script for this project is `main.py`. It performs data analysis, visualization, and provides an interactive dashboard using the Dash framework.
-
-To run the script, use the following command:
-
-```bash
-python main.py
-```
+The main script for this project is `airbnb-explorer-nyc.ipynb`. It performs data analysis, visualization, and provides an interactive dashboard using the Dash framework.
 
 The script will load the dataset, perform data preprocessing, generate visualizations, and start the Dash server. Once the server is running, you can access the interactive dashboard by opening your web browser and navigating to `http://localhost:8050`.
 
@@ -49,7 +43,7 @@ The project performs the following tasks:
 - Host analysis
 - Rent estimation
 
-The code is well-documented and includes comments to explain each step. You can find the implementation details in the `main.py` file.
+The code is well-documented and includes comments to explain each step. You can find the implementation details in the `airbnb-explorer-nyc.ipynb` file.
 
 ## Results
 
